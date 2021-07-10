@@ -5,5 +5,9 @@
 .App-header {
   color: #292929;
   font-size: 40px;
-  margin-top: 20px;
+  margin: 20px 0;
+}
+
+footer {
+  margin: 20px 0;
 }
