@@ -11,7 +11,7 @@ export default function App() {
       <main>
         <Dictionary />
       </main>
-      <footer className="text-center">Coded by Amy</footer>
+      <footer className="text-center">Coded by Amy | <a href="https://github.com/amysteel/dictionary-project" target="_blank">View on Github</a></footer>
       </div>
     </div>
   );
